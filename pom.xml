@@ -4,4 +4,10 @@
   <artifactId>MyMongoDB</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
+  <modules>
+  	<module>MyMongoDB-Core</module>
+  </modules>
+  
+  
 </project>
